@@ -22,10 +22,10 @@ def getquestions():
         'site': 'pt.stackoverflow'
     }
     url = 'https://api.stackexchange.com/2.2/questions'
-    req = requests.get(url, params=payload)    
+    req = requests.get(url, params=payload)
     return req.json() if req.status_code == 200 else None
     
-def main():    
+def main():
     questions = getquestions()
     if questions:
         if savejsonfile(questions):
