@@ -3,15 +3,217 @@
     "items": [
         {
             "answer_count": 0,
-            "creation_date": 1540131685,
+            "creation_date": 1540140384,
             "is_answered": false,
-            "last_activity_date": 1540131685,
+            "last_activity_date": 1540140384,
+            "link": "https://pt.stackoverflow.com/questions/337866/como-converter-opera%c3%a7%c3%b5es-aritm%c3%a9ticas-utilizando-diretamente-bin%c3%a1rio-em-c",
+            "owner": {
+                "display_name": "Fabio Fontes",
+                "link": "https://pt.stackoverflow.com/users/74508/fabio-fontes",
+                "profile_image": "https://www.gravatar.com/avatar/ed3c22df63d089f815274a7c670e18b5?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 74508,
+                "user_type": "registered"
+            },
+            "question_id": 337866,
+            "score": 0,
+            "tags": [
+                "c",
+                "operadores",
+                "n&#250;meros-bin&#225;rios"
+            ],
+            "title": "Como converter opera&#231;&#245;es aritm&#233;ticas utilizando diretamente bin&#225;rio em C",
+            "view_count": 3
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540140068,
+            "closed_reason": "duplicate",
+            "creation_date": 1540139481,
+            "is_answered": false,
+            "last_activity_date": 1540140166,
+            "link": "https://pt.stackoverflow.com/questions/337864/qual-a-real-necessidade-de-criar-uma-vari%c3%a1vel-com-nomes-variaveis-em-php",
+            "owner": {
+                "accept_rate": 94,
+                "display_name": "Marcielli Oliveira",
+                "link": "https://pt.stackoverflow.com/users/31174/marcielli-oliveira",
+                "profile_image": "https://i.stack.imgur.com/2uhkP.png?s=128&g=1",
+                "reputation": 794,
+                "user_id": 31174,
+                "user_type": "registered"
+            },
+            "question_id": 337864,
+            "score": 0,
+            "tags": [
+                "php",
+                "vari&#225;veis"
+            ],
+            "title": "Qual a real necessidade de criar uma vari&#225;vel com nomes variaveis em php?",
+            "view_count": 5
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540137761,
+            "closed_reason": "off-topic",
+            "creation_date": 1540137611,
+            "is_answered": false,
+            "last_activity_date": 1540137611,
+            "link": "https://pt.stackoverflow.com/questions/337863/como-fazer-isso-em-java",
+            "owner": {
+                "display_name": "Anderson",
+                "link": "https://pt.stackoverflow.com/users/128799/anderson",
+                "profile_image": "https://www.gravatar.com/avatar/a40da3b21f432e4988aa8cb8009e9461?s=128&d=identicon&r=PG",
+                "reputation": 1,
+                "user_id": 128799,
+                "user_type": "unregistered"
+            },
+            "question_id": 337863,
+            "score": -1,
+            "tags": [
+                "java"
+            ],
+            "title": "Como fazer isso em Java?",
+            "view_count": 9
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540136326,
+            "is_answered": false,
+            "last_activity_date": 1540138655,
+            "last_edit_date": 1540138655,
+            "link": "https://pt.stackoverflow.com/questions/337862/mudar-a-imagem-da-logo-quando-a-partir-da-classe-css-navbar-inverse",
+            "owner": {
+                "display_name": "Andr&#233; Gilberto Teixeira Gomes",
+                "link": "https://pt.stackoverflow.com/users/103536/andr%c3%a9-gilberto-teixeira-gomes",
+                "profile_image": "https://lh4.googleusercontent.com/-aMvmCmb7O5k/AAAAAAAAAAI/AAAAAAAAAHU/3XQKrcWkZbQ/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 103536,
+                "user_type": "registered"
+            },
+            "question_id": 337862,
+            "score": 0,
+            "tags": [
+                "javascript",
+                "jquery",
+                "css"
+            ],
+            "title": "Mudar a imagem da logo quando a partir da classe CSS navbar-inverse",
+            "view_count": 4
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540134895,
+            "is_answered": false,
+            "last_activity_date": 1540135443,
+            "last_edit_date": 1540135443,
+            "link": "https://pt.stackoverflow.com/questions/337858/pagina%c3%a7%c3%a3o-jquery-n%c3%a3o-exibe-divs",
+            "owner": {
+                "display_name": "Arthur Ayrton",
+                "link": "https://pt.stackoverflow.com/users/126366/arthur-ayrton",
+                "profile_image": "https://lh6.googleusercontent.com/-xwW4URp1osM/AAAAAAAAAAI/AAAAAAAAABw/_1-XqoG5ocw/photo.jpg?sz=128",
+                "reputation": 32,
+                "user_id": 126366,
+                "user_type": "registered"
+            },
+            "question_id": 337858,
+            "score": 0,
+            "tags": [
+                "php",
+                "javascript",
+                "jquery",
+                "pagina&#231;&#227;o"
+            ],
+            "title": "Pagina&#231;&#227;o jquery n&#227;o exibe divs",
+            "view_count": 4
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540134831,
+            "is_answered": false,
+            "last_activity_date": 1540134831,
+            "link": "https://pt.stackoverflow.com/questions/337857/quero-fazer-o-scraping-de-uma-p%c3%a1gina-por%c3%a9m-n%c3%a3o-consigo-pegar-um-texto-que-possu",
+            "owner": {
+                "display_name": "Matheus Andrade",
+                "link": "https://pt.stackoverflow.com/users/124924/matheus-andrade",
+                "profile_image": "https://lh3.googleusercontent.com/-b2LOiF38f30/AAAAAAAAAAI/AAAAAAAAAAA/APUIFaOB3-R0R4nJF6S4JVZw6LH2bcWYRg/mo/photo.jpg?sz=128",
+                "reputation": 10,
+                "user_id": 124924,
+                "user_type": "registered"
+            },
+            "question_id": 337857,
+            "score": 0,
+            "tags": [
+                "python",
+                "python-3.x",
+                "web-scraping",
+                "beautifulsoup"
+            ],
+            "title": "Quero fazer o scraping de uma p&#225;gina, por&#233;m n&#227;o consigo pegar um texto que possui &quot;&amp;nbsp&quot; nele",
+            "view_count": 6
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540134140,
+            "closed_reason": "off-topic",
+            "creation_date": 1540133846,
+            "is_answered": false,
+            "last_activity_date": 1540133846,
+            "link": "https://pt.stackoverflow.com/questions/337856/dashboard-com-base-sas-egp",
+            "owner": {
+                "display_name": "Ivan Lima",
+                "link": "https://pt.stackoverflow.com/users/128791/ivan-lima",
+                "profile_image": "https://graph.facebook.com/1901117993305285/picture?type=large",
+                "reputation": 1,
+                "user_id": 128791,
+                "user_type": "registered"
+            },
+            "question_id": 337856,
+            "score": 0,
+            "tags": [
+                "sas"
+            ],
+            "title": "Dashboard com base Sas (.egp)",
+            "view_count": 3
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540133274,
+            "closed_reason": "off-topic",
+            "creation_date": 1540132812,
+            "is_answered": false,
+            "last_activity_date": 1540134478,
+            "last_edit_date": 1540134478,
+            "link": "https://pt.stackoverflow.com/questions/337854/agenda-de-hor%c3%a1rio-android",
+            "owner": {
+                "display_name": "Joao Mascarenhas",
+                "link": "https://pt.stackoverflow.com/users/95778/joao-mascarenhas",
+                "profile_image": "https://www.gravatar.com/avatar/95f7b4e7d0d9c07d48d6261d5d6e9dea?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 95778,
+                "user_type": "registered"
+            },
+            "question_id": 337854,
+            "score": 0,
+            "tags": [
+                "android",
+                "android-studio",
+                "calendario"
+            ],
+            "title": "Agenda de hor&#225;rio Android",
+            "view_count": 8
+        },
+        {
+            "accepted_answer_id": 337860,
+            "answer_count": 1,
+            "creation_date": 1540131685,
+            "is_answered": true,
+            "last_activity_date": 1540136048,
             "link": "https://pt.stackoverflow.com/questions/337853/como-continuar-envio-de-formul%c3%a1rio-ap%c3%b3s-e-preventdefault",
             "owner": {
                 "display_name": "Atila Kopplin",
                 "link": "https://pt.stackoverflow.com/users/128766/atila-kopplin",
                 "profile_image": "https://lh4.googleusercontent.com/-XxFvdt6GZf8/AAAAAAAAAAI/AAAAAAAAHoE/iDbAqnOWQnc/photo.jpg?sz=128",
-                "reputation": 1,
+                "reputation": 3,
                 "user_id": 128766,
                 "user_type": "registered"
             },
@@ -22,7 +224,7 @@
                 "html"
             ],
             "title": "Como Continuar envio de formul&#225;rio ap&#243;s &quot;e.preventDefault();&quot;",
-            "view_count": 6
+            "view_count": 12
         },
         {
             "answer_count": 0,
@@ -45,7 +247,7 @@
                 "android"
             ],
             "title": "Centralizar uma imagem dentro de um TextView",
-            "view_count": 4
+            "view_count": 8
         },
         {
             "answer_count": 0,
@@ -68,7 +270,7 @@
                 "php"
             ],
             "title": "syntax error, unexpected &#39;global&#39; (T_GLOBAL), expecting function (T_FUNCTION) or const (T_CONST)",
-            "view_count": 6
+            "view_count": 10
         },
         {
             "answer_count": 0,
@@ -92,7 +294,7 @@
                 "tkinter"
             ],
             "title": "Porque n&#227;o est&#225; funcionando? Python3,Tkinter",
-            "view_count": 2
+            "view_count": 6
         },
         {
             "answer_count": 0,
@@ -116,7 +318,7 @@
                 "react"
             ],
             "title": "Gr&#225;ficos React-chartjs-2 n&#227;o carregam na tela",
-            "view_count": 2
+            "view_count": 4
         },
         {
             "answer_count": 0,
@@ -140,13 +342,13 @@
                 "&#225;lgebra-booleana"
             ],
             "title": "Simplificar expressoes",
-            "view_count": 7
+            "view_count": 10
         },
         {
-            "answer_count": 0,
+            "answer_count": 1,
             "creation_date": 1540128468,
             "is_answered": false,
-            "last_activity_date": 1540128871,
+            "last_activity_date": 1540135618,
             "last_edit_date": 1540128871,
             "link": "https://pt.stackoverflow.com/questions/337846/erro-comparando-strings-em-delphi",
             "owner": {
@@ -164,7 +366,7 @@
                 "delphi"
             ],
             "title": "Erro comparando strings em Delphi",
-            "view_count": 4
+            "view_count": 6
         },
         {
             "answer_count": 0,
@@ -187,7 +389,7 @@
                 "linq-to-sql"
             ],
             "title": "Preciso pegar o valor das Propriedades de Navega&#231;&#227;o",
-            "view_count": 4
+            "view_count": 5
         },
         {
             "answer_count": 0,
@@ -205,13 +407,13 @@
                 "user_type": "unregistered"
             },
             "question_id": 337844,
-            "score": 0,
+            "score": -1,
             "tags": [
                 "php",
                 "mysql"
             ],
             "title": "$_get nao pega id do link",
-            "view_count": 7
+            "view_count": 8
         },
         {
             "answer_count": 0,
@@ -258,7 +460,7 @@
                 "paypal"
             ],
             "title": "PayPal n&#227;o retorna valores StringQuery TX no modo Sandbox",
-            "view_count": 5
+            "view_count": 7
         },
         {
             "answer_count": 0,
@@ -287,7 +489,7 @@
                 "real-time"
             ],
             "title": "Como posso fazer a divisao real em assembly?",
-            "view_count": 8
+            "view_count": 9
         },
         {
             "answer_count": 1,
@@ -311,7 +513,7 @@
                 "visual-studio-2017"
             ],
             "title": "Erro ao tratar exce&#231;&#245;es - &quot;Refer&#234;ncia de objeto n&#227;o definida para uma inst&#226;ncia de um objeto&quot;",
-            "view_count": 10
+            "view_count": 11
         },
         {
             "answer_count": 0,
@@ -465,16 +667,17 @@
             "view_count": 11
         },
         {
+            "accepted_answer_id": 337824,
             "answer_count": 1,
             "creation_date": 1540088516,
-            "is_answered": false,
+            "is_answered": true,
             "last_activity_date": 1540092210,
             "link": "https://pt.stackoverflow.com/questions/337816/manipula%c3%a7%c3%a3o-e-grid-hbox-e-vbox-no-pyqt4",
             "owner": {
                 "display_name": "Mi Tavares",
                 "link": "https://pt.stackoverflow.com/users/113745/mi-tavares",
                 "profile_image": "https://www.gravatar.com/avatar/45ec832e4882b0a42a5a2507b7969fd2?s=128&d=identicon&r=PG&f=1",
-                "reputation": 9,
+                "reputation": 11,
                 "user_id": 113745,
                 "user_type": "registered"
             },
@@ -485,15 +688,15 @@
                 "pyqt-4"
             ],
             "title": "Manipula&#231;&#227;o e grid, hbox e vbox no pyqt4",
-            "view_count": 6
+            "view_count": 9
         },
         {
             "answer_count": 1,
             "creation_date": 1540087387,
             "is_answered": false,
-            "last_activity_date": 1540098596,
-            "last_edit_date": 1540095291,
-            "link": "https://pt.stackoverflow.com/questions/337814/como-chamar-tela-de-cadastro",
+            "last_activity_date": 1540140584,
+            "last_edit_date": 1540140584,
+            "link": "https://pt.stackoverflow.com/questions/337814/melhor-pr%c3%a1tica-para-chamar-uma-nova-tela",
             "owner": {
                 "display_name": "Blaack Brazil",
                 "link": "https://pt.stackoverflow.com/users/128774/blaack-brazil",
@@ -507,8 +710,8 @@
             "tags": [
                 "android"
             ],
-            "title": "Como chamar tela de cadastro",
-            "view_count": 10
+            "title": "Melhor pr&#225;tica para chamar uma nova tela",
+            "view_count": 11
         },
         {
             "answer_count": 1,
@@ -537,197 +740,8 @@
             ],
             "title": "Como converter JsonArray para ArrayList&lt;&gt; no android",
             "view_count": 10
-        },
-        {
-            "answer_count": 0,
-            "creation_date": 1540085955,
-            "is_answered": false,
-            "last_activity_date": 1540085955,
-            "link": "https://pt.stackoverflow.com/questions/337812/arrastar-texto-do-webbrowser1-para-tmemo1",
-            "owner": {
-                "accept_rate": 31,
-                "display_name": "Rose",
-                "link": "https://pt.stackoverflow.com/users/15290/rose",
-                "profile_image": "https://i.stack.imgur.com/7WjSj.jpg?s=128&g=1",
-                "reputation": 348,
-                "user_id": 15290,
-                "user_type": "registered"
-            },
-            "question_id": 337812,
-            "score": -1,
-            "tags": [
-                "delphi"
-            ],
-            "title": "Arrastar texto do WebBrowser1 para TMemo1",
-            "view_count": 7
-        },
-        {
-            "answer_count": 0,
-            "creation_date": 1540085896,
-            "is_answered": false,
-            "last_activity_date": 1540085896,
-            "link": "https://pt.stackoverflow.com/questions/337811/ajuda-retornando-erros-warning-illegal-string-offset-id",
-            "owner": {
-                "display_name": "Carlos Coelho",
-                "link": "https://pt.stackoverflow.com/users/83180/carlos-coelho",
-                "profile_image": "https://lh4.googleusercontent.com/-eIzCbIAPQB4/AAAAAAAAAAI/AAAAAAAACtU/mQIkzjFyzdA/photo.jpg?sz=128",
-                "reputation": 20,
-                "user_id": 83180,
-                "user_type": "registered"
-            },
-            "question_id": 337811,
-            "score": 0,
-            "tags": [
-                "php",
-                "mysql"
-            ],
-            "title": "Ajuda retornando erros - &gt; Warning: Illegal string offset &#39;id&#39;",
-            "view_count": 6
-        },
-        {
-            "answer_count": 1,
-            "creation_date": 1540083835,
-            "is_answered": true,
-            "last_activity_date": 1540118371,
-            "last_edit_date": 1540116438,
-            "link": "https://pt.stackoverflow.com/questions/337808/recurs%c3%a3o-no-r-erro",
-            "owner": {
-                "display_name": "Gabriel Mizuno",
-                "link": "https://pt.stackoverflow.com/users/108422/gabriel-mizuno",
-                "profile_image": "https://lh5.googleusercontent.com/-pqb2PJNxBvI/AAAAAAAAAAI/AAAAAAAAAGY/1D0_1rC-b4Q/photo.jpg?sz=128",
-                "reputation": 60,
-                "user_id": 108422,
-                "user_type": "registered"
-            },
-            "question_id": 337808,
-            "score": 1,
-            "tags": [
-                "r",
-                "rstudio"
-            ],
-            "title": "Recurs&#227;o no R erro",
-            "view_count": 15
-        },
-        {
-            "answer_count": 0,
-            "creation_date": 1540082887,
-            "is_answered": false,
-            "last_activity_date": 1540082887,
-            "link": "https://pt.stackoverflow.com/questions/337807/screenupdating-x-on-error-goto-errorhandler",
-            "owner": {
-                "display_name": "Paulo Semblano",
-                "link": "https://pt.stackoverflow.com/users/93406/paulo-semblano",
-                "profile_image": "https://i.stack.imgur.com/XwDKH.jpg?s=128&g=1",
-                "reputation": 16,
-                "user_id": 93406,
-                "user_type": "registered"
-            },
-            "question_id": 337807,
-            "score": 0,
-            "tags": [
-                "excel",
-                "vba"
-            ],
-            "title": "ScreenUpdating x On Error GoTo ErrorHandler",
-            "view_count": 3
-        },
-        {
-            "answer_count": 1,
-            "creation_date": 1540081344,
-            "is_answered": false,
-            "last_activity_date": 1540084458,
-            "link": "https://pt.stackoverflow.com/questions/337806/como-redirecionar-o-usu%c3%a1rio-para-uma-p%c3%a1gina-especifica-ap%c3%b3s-o-login",
-            "owner": {
-                "display_name": "Rodrigo Santos",
-                "link": "https://pt.stackoverflow.com/users/126991/rodrigo-santos",
-                "profile_image": "https://graph.facebook.com/10216654704421418/picture?type=large",
-                "reputation": 1,
-                "user_id": 126991,
-                "user_type": "registered"
-            },
-            "question_id": 337806,
-            "score": 0,
-            "tags": [
-                "c#",
-                "asp.net-mvc",
-                "login",
-                "autentica&#231;&#227;o",
-                "forms-authentication"
-            ],
-            "title": "Como redirecionar o usu&#225;rio para uma p&#225;gina especifica ap&#243;s o login",
-            "view_count": 16
-        },
-        {
-            "answer_count": 0,
-            "creation_date": 1540081252,
-            "is_answered": false,
-            "last_activity_date": 1540081252,
-            "link": "https://pt.stackoverflow.com/questions/337805/utilizar-comandos-adb-em-app-para-android",
-            "owner": {
-                "display_name": "Kayque Damasceno",
-                "link": "https://pt.stackoverflow.com/users/14752/kayque-damasceno",
-                "profile_image": "https://www.gravatar.com/avatar/cc32a6ce0e52af3a2491f863565ffe92?s=128&d=identicon&r=PG&f=1",
-                "reputation": 6,
-                "user_id": 14752,
-                "user_type": "registered"
-            },
-            "question_id": 337805,
-            "score": 0,
-            "tags": [
-                "android"
-            ],
-            "title": "Utilizar comandos adb em App para android",
-            "view_count": 3
-        },
-        {
-            "answer_count": 2,
-            "creation_date": 1540078949,
-            "is_answered": true,
-            "last_activity_date": 1540080310,
-            "link": "https://pt.stackoverflow.com/questions/337799/como-exibir-os-atributos-de-uma-exception-em-python",
-            "owner": {
-                "display_name": "Gabriel",
-                "link": "https://pt.stackoverflow.com/users/128767/gabriel",
-                "profile_image": "https://www.gravatar.com/avatar/dfbcd2a98ed15301a46985e5ae616e2f?s=128&d=identicon&r=PG",
-                "reputation": 11,
-                "user_id": 128767,
-                "user_type": "unregistered"
-            },
-            "question_id": 337799,
-            "score": 2,
-            "tags": [
-                "python",
-                "exce&#231;&#227;o"
-            ],
-            "title": "Como exibir os atributos de uma Exception em Python?",
-            "view_count": 13
-        },
-        {
-            "accepted_answer_id": 337801,
-            "answer_count": 1,
-            "creation_date": 1540077892,
-            "is_answered": true,
-            "last_activity_date": 1540080378,
-            "link": "https://pt.stackoverflow.com/questions/337797/retorno-busca-hql-java",
-            "owner": {
-                "accept_rate": 57,
-                "display_name": "Eduardo Balestrin",
-                "link": "https://pt.stackoverflow.com/users/33844/eduardo-balestrin",
-                "profile_image": "https://graph.facebook.com/883121971783431/picture?type=large",
-                "reputation": 159,
-                "user_id": 33844,
-                "user_type": "registered"
-            },
-            "question_id": 337797,
-            "score": 0,
-            "tags": [
-                "java",
-                "hql"
-            ],
-            "title": "Retorno busca HQL JAVA",
-            "view_count": 16
         }
     ],
     "quota_max": 300,
-    "quota_remaining": 253
+    "quota_remaining": 252
 }

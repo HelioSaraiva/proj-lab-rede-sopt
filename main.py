@@ -19,10 +19,8 @@ def getquestions():
         'site': 'pt.stackoverflow'
     }
     url = 'https://api.stackexchange.com/2.2/questions'
-    req = requests.get(url, params=payload)
-    if req.status_code != 200:
-        return None
-    return req.json()
+    req = requests.get(url, params=payload)    
+    return req.json() if req.status_code == 200 else None
     
 def main():    
     questions = getquestions()
