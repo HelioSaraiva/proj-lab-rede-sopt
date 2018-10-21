@@ -2,539 +2,732 @@
     "has_more": true,
     "items": [
         {
-            "answer_id": 6448,
-            "creation_date": 1392781953,
-            "is_accepted": true,
-            "last_activity_date": 1476381547,
-            "last_edit_date": 1476381547,
+            "answer_count": 0,
+            "creation_date": 1540131685,
+            "is_answered": false,
+            "last_activity_date": 1540131685,
+            "link": "https://pt.stackoverflow.com/questions/337853/como-continuar-envio-de-formul%c3%a1rio-ap%c3%b3s-e-preventdefault",
             "owner": {
-                "display_name": "Bacco",
-                "link": "https://pt.stackoverflow.com/users/70/bacco",
-                "profile_image": "https://www.gravatar.com/avatar/162a62cf2058d7dd8d549dd6bd3b46f9?s=128&d=identicon&r=PG",
-                "reputation": 80669,
-                "user_id": 70,
-                "user_type": "moderator"
-            },
-            "question_id": 6441,
-            "score": 332
-        },
-        {
-            "answer_id": 2405,
-            "creation_date": 1390614822,
-            "is_accepted": true,
-            "last_activity_date": 1429264438,
-            "last_edit_date": 1489747571,
-            "owner": {
-                "display_name": "Bacco",
-                "link": "https://pt.stackoverflow.com/users/70/bacco",
-                "profile_image": "https://www.gravatar.com/avatar/162a62cf2058d7dd8d549dd6bd3b46f9?s=128&d=identicon&r=PG",
-                "reputation": 80669,
-                "user_id": 70,
-                "user_type": "moderator"
-            },
-            "question_id": 2402,
-            "score": 330
-        },
-        {
-            "answer_id": 4675,
-            "creation_date": 1391722509,
-            "is_accepted": true,
-            "last_activity_date": 1506527822,
-            "last_edit_date": 1506527822,
-            "owner": {
-                "accept_rate": 75,
-                "display_name": "J. Bruni",
-                "link": "https://pt.stackoverflow.com/users/4707/j-bruni",
-                "profile_image": "https://www.gravatar.com/avatar/27dacda91150eca332526bf8a8ee7e03?s=128&d=identicon&r=PG",
-                "reputation": 6762,
-                "user_id": 4707,
+                "display_name": "Atila Kopplin",
+                "link": "https://pt.stackoverflow.com/users/128766/atila-kopplin",
+                "profile_image": "https://lh4.googleusercontent.com/-XxFvdt6GZf8/AAAAAAAAAAI/AAAAAAAAHoE/iDbAqnOWQnc/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 128766,
                 "user_type": "registered"
             },
-            "question_id": 579,
-            "score": 220
+            "question_id": 337853,
+            "score": 0,
+            "tags": [
+                "javascript",
+                "html"
+            ],
+            "title": "Como Continuar envio de formul&#225;rio ap&#243;s &quot;e.preventDefault();&quot;",
+            "view_count": 6
         },
         {
-            "answer_id": 2709,
-            "creation_date": 1391007553,
-            "is_accepted": true,
-            "last_activity_date": 1430309049,
-            "last_edit_date": 1492086743,
+            "answer_count": 0,
+            "creation_date": 1540130605,
+            "is_answered": false,
+            "last_activity_date": 1540130605,
+            "link": "https://pt.stackoverflow.com/questions/337852/centralizar-uma-imagem-dentro-de-um-textview",
             "owner": {
-                "accept_rate": 100,
-                "display_name": "Luiz Vieira",
-                "link": "https://pt.stackoverflow.com/users/73/luiz-vieira",
-                "profile_image": "https://www.gravatar.com/avatar/3cfa71a76366c4adec15c55e8b02aa4c?s=128&d=identicon&r=PG",
-                "reputation": 29633,
-                "user_id": 73,
+                "accept_rate": 58,
+                "display_name": "Artur Mafezzoli J&#250;nior",
+                "link": "https://pt.stackoverflow.com/users/45330/artur-mafezzoli-j%c3%banior",
+                "profile_image": "https://lh6.googleusercontent.com/-ZY6qbuUb2y4/AAAAAAAAAAI/AAAAAAAAREg/KTv8x82xZ4w/photo.jpg?sz=128",
+                "reputation": 216,
+                "user_id": 45330,
                 "user_type": "registered"
             },
-            "question_id": 2539,
-            "score": 179
+            "question_id": 337852,
+            "score": 0,
+            "tags": [
+                "android"
+            ],
+            "title": "Centralizar uma imagem dentro de um TextView",
+            "view_count": 4
         },
         {
-            "answer_id": 3869,
-            "creation_date": 1391431583,
-            "is_accepted": true,
-            "last_activity_date": 1469824966,
-            "last_edit_date": 1492088372,
+            "answer_count": 0,
+            "creation_date": 1540130193,
+            "is_answered": false,
+            "last_activity_date": 1540130193,
+            "link": "https://pt.stackoverflow.com/questions/337850/syntax-error-unexpected-global-t-global-expecting-function-t-function-or",
             "owner": {
                 "accept_rate": 71,
-                "display_name": "rray",
-                "link": "https://pt.stackoverflow.com/users/91/rray",
-                "profile_image": "https://i.stack.imgur.com/8TVet.jpg?s=128&g=1",
-                "reputation": 57330,
-                "user_id": 91,
-                "user_type": "moderator"
-            },
-            "question_id": 3864,
-            "score": 168
-        },
-        {
-            "answer_id": 2478,
-            "creation_date": 1390866229,
-            "is_accepted": true,
-            "last_activity_date": 1484138114,
-            "last_edit_date": 1492088384,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 2477,
-            "score": 162
-        },
-        {
-            "answer_id": 15698,
-            "creation_date": 1400003944,
-            "is_accepted": true,
-            "last_activity_date": 1511700822,
-            "last_edit_date": 1511700822,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 3797,
-            "score": 159
-        },
-        {
-            "answer_id": 45787,
-            "creation_date": 1420362896,
-            "is_accepted": true,
-            "last_activity_date": 1450453275,
-            "last_edit_date": 1450453275,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 45783,
-            "score": 159
-        },
-        {
-            "answer_id": 17552,
-            "creation_date": 1401379988,
-            "is_accepted": true,
-            "last_activity_date": 1510556486,
-            "last_edit_date": 1510556486,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 17501,
-            "score": 157
-        },
-        {
-            "answer_id": 9030,
-            "creation_date": 1394633297,
-            "is_accepted": true,
-            "last_activity_date": 1418729803,
-            "last_edit_date": 1418729803,
-            "owner": {
-                "accept_rate": 86,
-                "display_name": "Guilherme Bernal",
-                "link": "https://pt.stackoverflow.com/users/429/guilherme-bernal",
-                "profile_image": "https://www.gravatar.com/avatar/e5d55dcf2495618e8b9f8778f8353ee0?s=128&d=identicon&r=PG",
-                "reputation": 16589,
-                "user_id": 429,
+                "display_name": "Guilherme",
+                "link": "https://pt.stackoverflow.com/users/58450/guilherme",
+                "profile_image": "https://graph.facebook.com/378508149204430/picture?type=large",
+                "reputation": 74,
+                "user_id": 58450,
                 "user_type": "registered"
             },
-            "question_id": 9026,
-            "score": 154
+            "question_id": 337850,
+            "score": 0,
+            "tags": [
+                "php"
+            ],
+            "title": "syntax error, unexpected &#39;global&#39; (T_GLOBAL), expecting function (T_FUNCTION) or const (T_CONST)",
+            "view_count": 6
         },
         {
-            "answer_id": 7271,
-            "creation_date": 1393345052,
-            "is_accepted": true,
-            "last_activity_date": 1393345052,
+            "answer_count": 0,
+            "creation_date": 1540130057,
+            "is_answered": false,
+            "last_activity_date": 1540130057,
+            "link": "https://pt.stackoverflow.com/questions/337849/porque-n%c3%a3o-est%c3%a1-funcionando-python3-tkinter",
             "owner": {
-                "accept_rate": 77,
-                "display_name": "mgibsonbr",
-                "link": "https://pt.stackoverflow.com/users/215/mgibsonbr",
-                "profile_image": "https://www.gravatar.com/avatar/414aae1257ee9e58014bd81bf438a662?s=128&d=identicon&r=PG",
-                "reputation": 66197,
-                "user_id": 215,
+                "display_name": "Code Ghost",
+                "link": "https://pt.stackoverflow.com/users/128556/code-ghost",
+                "profile_image": "https://lh5.googleusercontent.com/-Vxwo7kwQWxY/AAAAAAAAAAI/AAAAAAAAAnk/5MwpZgR_oWE/photo.jpg?sz=128",
+                "reputation": 3,
+                "user_id": 128556,
                 "user_type": "registered"
             },
-            "question_id": 7257,
-            "score": 140
+            "question_id": 337849,
+            "score": 0,
+            "tags": [
+                "python",
+                "python-3.x",
+                "tkinter"
+            ],
+            "title": "Porque n&#227;o est&#225; funcionando? Python3,Tkinter",
+            "view_count": 2
         },
         {
-            "answer_id": 11186,
-            "creation_date": 1396298927,
-            "is_accepted": true,
-            "last_activity_date": 1454509408,
-            "last_edit_date": 1454509408,
+            "answer_count": 0,
+            "creation_date": 1540129021,
+            "is_answered": false,
+            "last_activity_date": 1540129021,
+            "link": "https://pt.stackoverflow.com/questions/337848/gr%c3%a1ficos-react-chartjs-2-n%c3%a3o-carregam-na-tela",
             "owner": {
-                "accept_rate": 80,
-                "display_name": "utluiz",
-                "link": "https://pt.stackoverflow.com/users/227/utluiz",
-                "profile_image": "https://www.gravatar.com/avatar/72e303f801142b55122fe8d98e0e06b5?s=128&d=identicon&r=PG",
-                "reputation": 62621,
-                "user_id": 227,
-                "user_type": "moderator"
-            },
-            "question_id": 11183,
-            "score": 132
-        },
-        {
-            "answer_id": 8333,
-            "creation_date": 1394131981,
-            "is_accepted": true,
-            "last_activity_date": 1536152547,
-            "last_edit_date": 1536152547,
-            "owner": {
-                "accept_rate": 71,
-                "display_name": "rray",
-                "link": "https://pt.stackoverflow.com/users/91/rray",
-                "profile_image": "https://i.stack.imgur.com/8TVet.jpg?s=128&g=1",
-                "reputation": 57330,
-                "user_id": 91,
-                "user_type": "moderator"
-            },
-            "question_id": 8317,
-            "score": 128
-        },
-        {
-            "answer_id": 27182,
-            "creation_date": 1406759288,
-            "is_accepted": true,
-            "last_activity_date": 1495195058,
-            "last_edit_date": 1495195058,
-            "owner": {
-                "accept_rate": 82,
-                "display_name": "Sergio",
-                "link": "https://pt.stackoverflow.com/users/129/sergio",
-                "profile_image": "https://i.stack.imgur.com/50fhX.jpg?s=128&g=1",
-                "reputation": 113332,
-                "user_id": 129,
-                "user_type": "moderator"
-            },
-            "question_id": 27177,
-            "score": 128
-        },
-        {
-            "answer_id": 14275,
-            "creation_date": 1398772610,
-            "is_accepted": true,
-            "last_activity_date": 1485779695,
-            "last_edit_date": 1492088372,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 13890,
-            "score": 117
-        },
-        {
-            "answer_id": 582,
-            "creation_date": 1387366727,
-            "is_accepted": false,
-            "last_activity_date": 1408186305,
-            "last_edit_date": 1408186305,
-            "owner": {
-                "accept_rate": 100,
-                "display_name": "rodrigorgs",
-                "link": "https://pt.stackoverflow.com/users/77/rodrigorgs",
-                "profile_image": "https://www.gravatar.com/avatar/5b5d74b9ee9cd59f57c33dcee63517fa?s=128&d=identicon&r=PG",
-                "reputation": 5367,
-                "user_id": 77,
+                "display_name": "Jo&#227;o Marcos Soares",
+                "link": "https://pt.stackoverflow.com/users/128788/jo%c3%a3o-marcos-soares",
+                "profile_image": "https://graph.facebook.com/1855167321262686/picture?type=large",
+                "reputation": 1,
+                "user_id": 128788,
                 "user_type": "registered"
             },
-            "question_id": 579,
-            "score": 111
+            "question_id": 337848,
+            "score": 0,
+            "tags": [
+                "javascript",
+                "html",
+                "react"
+            ],
+            "title": "Gr&#225;ficos React-chartjs-2 n&#227;o carregam na tela",
+            "view_count": 2
         },
         {
-            "answer_id": 43205,
-            "creation_date": 1418002082,
-            "is_accepted": false,
-            "last_activity_date": 1522101916,
-            "last_edit_date": 1522101916,
+            "answer_count": 0,
+            "closed_date": 1540129152,
+            "closed_reason": "off-topic",
+            "creation_date": 1540128976,
+            "is_answered": false,
+            "last_activity_date": 1540128976,
+            "link": "https://pt.stackoverflow.com/questions/337847/simplificar-expressoes",
             "owner": {
-                "accept_rate": 62,
-                "display_name": "Guilherme Nascimento",
-                "link": "https://pt.stackoverflow.com/users/3635/guilherme-nascimento",
-                "profile_image": "https://www.gravatar.com/avatar/4c937661dc06b46b541d3e6ccdc19687?s=128&d=identicon&r=PG",
-                "reputation": 76234,
-                "user_id": 3635,
+                "display_name": "Pedro",
+                "link": "https://pt.stackoverflow.com/users/128790/pedro",
+                "profile_image": "https://www.gravatar.com/avatar/1d9b647f00130eb7f5b6ba2a6ebddd65?s=128&d=identicon&r=PG",
+                "reputation": 1,
+                "user_id": 128790,
+                "user_type": "unregistered"
+            },
+            "question_id": 337847,
+            "score": -1,
+            "tags": [
+                "&#225;lgebra-booleana"
+            ],
+            "title": "Simplificar expressoes",
+            "view_count": 7
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540128468,
+            "is_answered": false,
+            "last_activity_date": 1540128871,
+            "last_edit_date": 1540128871,
+            "link": "https://pt.stackoverflow.com/questions/337846/erro-comparando-strings-em-delphi",
+            "owner": {
+                "accept_rate": 94,
+                "display_name": "Italo Rodrigo",
+                "link": "https://pt.stackoverflow.com/users/51534/italo-rodrigo",
+                "profile_image": "https://www.gravatar.com/avatar/ce46c590488404e773e7e86024399474?s=128&d=identicon&r=PG",
+                "reputation": 2410,
+                "user_id": 51534,
                 "user_type": "registered"
             },
-            "question_id": 43193,
-            "score": 111
+            "question_id": 337846,
+            "score": 0,
+            "tags": [
+                "delphi"
+            ],
+            "title": "Erro comparando strings em Delphi",
+            "view_count": 4
         },
         {
-            "answer_id": 35548,
-            "creation_date": 1412956367,
-            "is_accepted": true,
-            "last_activity_date": 1509369765,
-            "last_edit_date": 1509369765,
+            "answer_count": 0,
+            "creation_date": 1540127425,
+            "is_answered": false,
+            "last_activity_date": 1540127425,
+            "link": "https://pt.stackoverflow.com/questions/337845/preciso-pegar-o-valor-das-propriedades-de-navega%c3%a7%c3%a3o",
             "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 35547,
-            "score": 110
-        },
-        {
-            "answer_id": 8322,
-            "creation_date": 1394130080,
-            "is_accepted": true,
-            "last_activity_date": 1394130080,
-            "owner": {
-                "accept_rate": 87,
-                "display_name": "Cigano Morrison Mendez",
-                "link": "https://pt.stackoverflow.com/users/2999/cigano-morrison-mendez",
-                "profile_image": "https://i.stack.imgur.com/oWffr.jpg?s=128&g=1",
-                "reputation": 81965,
-                "user_id": 2999,
+                "display_name": "Uitan Maciel",
+                "link": "https://pt.stackoverflow.com/users/45328/uitan-maciel",
+                "profile_image": "https://lh6.googleusercontent.com/-drKrnjZdXn4/AAAAAAAAAAI/AAAAAAAAGvw/Igld5INcg54/photo.jpg?sz=128",
+                "reputation": 35,
+                "user_id": 45328,
                 "user_type": "registered"
             },
-            "question_id": 8315,
-            "score": 105
+            "question_id": 337845,
+            "score": 0,
+            "tags": [
+                "asp.net-core",
+                "linq-to-sql"
+            ],
+            "title": "Preciso pegar o valor das Propriedades de Navega&#231;&#227;o",
+            "view_count": 4
         },
         {
-            "answer_id": 9,
-            "creation_date": 1386777682,
-            "is_accepted": true,
-            "last_activity_date": 1468534075,
-            "last_edit_date": 1495543043,
+            "answer_count": 0,
+            "creation_date": 1540125776,
+            "is_answered": false,
+            "last_activity_date": 1540127773,
+            "last_edit_date": 1540127773,
+            "link": "https://pt.stackoverflow.com/questions/337844/get-nao-pega-id-do-link",
+            "owner": {
+                "display_name": "Rafael",
+                "link": "https://pt.stackoverflow.com/users/128787/rafael",
+                "profile_image": "https://www.gravatar.com/avatar/49422227371596a9f5f8f0305ea4bcd6?s=128&d=identicon&r=PG",
+                "reputation": 1,
+                "user_id": 128787,
+                "user_type": "unregistered"
+            },
+            "question_id": 337844,
+            "score": 0,
+            "tags": [
+                "php",
+                "mysql"
+            ],
+            "title": "$_get nao pega id do link",
+            "view_count": 7
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540124721,
+            "is_answered": false,
+            "last_activity_date": 1540124721,
+            "link": "https://pt.stackoverflow.com/questions/337843/como-ponho-uma-coluna-em-agrega%c3%a7%c3%a3o-ou-numa-fun%c3%a7%c3%a3o-de-grupo",
+            "owner": {
+                "display_name": "Bruno Bacelar",
+                "link": "https://pt.stackoverflow.com/users/115002/bruno-bacelar",
+                "profile_image": "https://graph.facebook.com/1667076109994890/picture?type=large",
+                "reputation": 28,
+                "user_id": 115002,
+                "user_type": "registered"
+            },
+            "question_id": 337843,
+            "score": 0,
+            "tags": [
+                "sql-server",
+                "query"
+            ],
+            "title": "Como ponho uma coluna em agrega&#231;&#227;o ou numa fun&#231;&#227;o de grupo?",
+            "view_count": 8
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540123218,
+            "is_answered": false,
+            "last_activity_date": 1540123218,
+            "link": "https://pt.stackoverflow.com/questions/337842/paypal-n%c3%a3o-retorna-valores-stringquery-tx-no-modo-sandbox",
             "owner": {
                 "accept_rate": 50,
-                "display_name": "Guerra",
-                "link": "https://pt.stackoverflow.com/users/36/guerra",
-                "profile_image": "https://i.stack.imgur.com/dT97L.jpg?s=128&g=1",
-                "reputation": 6197,
-                "user_id": 36,
+                "display_name": "Cyberlacs",
+                "link": "https://pt.stackoverflow.com/users/38555/cyberlacs",
+                "profile_image": "https://www.gravatar.com/avatar/5c933a91a4a446b456f14fc2fbfd24eb?s=128&d=identicon&r=PG",
+                "reputation": 519,
+                "user_id": 38555,
                 "user_type": "registered"
             },
-            "question_id": 7,
-            "score": 104
+            "question_id": 337842,
+            "score": 0,
+            "tags": [
+                "asp.net-mvc",
+                "paypal"
+            ],
+            "title": "PayPal n&#227;o retorna valores StringQuery TX no modo Sandbox",
+            "view_count": 5
         },
         {
-            "answer_id": 1957,
-            "creation_date": 1389710901,
-            "is_accepted": true,
-            "last_activity_date": 1486555735,
-            "last_edit_date": 1495543043,
+            "answer_count": 0,
+            "closed_date": 1540122957,
+            "closed_reason": "too broad",
+            "creation_date": 1540121188,
+            "is_answered": false,
+            "last_activity_date": 1540123816,
+            "last_edit_date": 1540123816,
+            "link": "https://pt.stackoverflow.com/questions/337840/como-posso-fazer-a-divisao-real-em-assembly",
             "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 1946,
-            "score": 104
-        },
-        {
-            "answer_id": 32450,
-            "creation_date": 1410645193,
-            "is_accepted": true,
-            "last_activity_date": 1492437488,
-            "last_edit_date": 1495543043,
-            "owner": {
-                "accept_rate": 89,
-                "display_name": "Maniero",
-                "link": "https://pt.stackoverflow.com/users/101/maniero",
-                "profile_image": "https://i.stack.imgur.com/jmxoN.png?s=128&g=1",
-                "reputation": 297430,
-                "user_id": 101,
-                "user_type": "moderator"
-            },
-            "question_id": 32448,
-            "score": 103
-        },
-        {
-            "answer_id": 13365,
-            "creation_date": 1397774360,
-            "is_accepted": true,
-            "last_activity_date": 1412278652,
-            "last_edit_date": 1495543055,
-            "owner": {
-                "display_name": "Bacco",
-                "link": "https://pt.stackoverflow.com/users/70/bacco",
-                "profile_image": "https://www.gravatar.com/avatar/162a62cf2058d7dd8d549dd6bd3b46f9?s=128&d=identicon&r=PG",
-                "reputation": 80669,
-                "user_id": 70,
-                "user_type": "moderator"
-            },
-            "question_id": 13364,
-            "score": 96
-        },
-        {
-            "answer_id": 52451,
-            "creation_date": 1425083390,
-            "is_accepted": true,
-            "last_activity_date": 1425086178,
-            "last_edit_date": 1425086178,
-            "owner": {
-                "accept_rate": 88,
-                "display_name": "bfavaretto",
-                "link": "https://pt.stackoverflow.com/users/74/bfavaretto",
-                "profile_image": "https://www.gravatar.com/avatar/99e9d896a23f5ea76071fa2d54df94ee?s=128&d=identicon&r=PG",
-                "reputation": 53984,
-                "user_id": 74,
-                "user_type": "moderator"
-            },
-            "question_id": 52450,
-            "score": 95
-        },
-        {
-            "answer_id": 104767,
-            "creation_date": 1450467346,
-            "is_accepted": true,
-            "last_activity_date": 1483565242,
-            "last_edit_date": 1492088379,
-            "owner": {
-                "accept_rate": 100,
-                "display_name": "Luiz Vieira",
-                "link": "https://pt.stackoverflow.com/users/73/luiz-vieira",
-                "profile_image": "https://www.gravatar.com/avatar/3cfa71a76366c4adec15c55e8b02aa4c?s=128&d=identicon&r=PG",
-                "reputation": 29633,
-                "user_id": 73,
+                "display_name": "Nokas01",
+                "link": "https://pt.stackoverflow.com/users/128464/nokas01",
+                "profile_image": "https://www.gravatar.com/avatar/4b57c2184b055cf6ab63201cf84a4ec7?s=128&d=identicon&r=PG&f=1",
+                "reputation": 1,
+                "user_id": 128464,
                 "user_type": "registered"
             },
-            "question_id": 104656,
-            "score": 95
+            "question_id": 337840,
+            "score": 0,
+            "tags": [
+                "assembly",
+                "inteiros",
+                ".net-assembly",
+                "divis&#227;o",
+                "real-time"
+            ],
+            "title": "Como posso fazer a divisao real em assembly?",
+            "view_count": 8
         },
         {
-            "answer_id": 1112,
-            "creation_date": 1388079451,
-            "is_accepted": true,
-            "last_activity_date": 1441387054,
-            "last_edit_date": 1492088376,
+            "answer_count": 1,
+            "creation_date": 1540101070,
+            "is_answered": false,
+            "last_activity_date": 1540121505,
+            "link": "https://pt.stackoverflow.com/questions/337830/erro-ao-tratar-exce%c3%a7%c3%b5es-refer%c3%aancia-de-objeto-n%c3%a3o-definida-para-uma-inst%c3%a2ncia",
             "owner": {
-                "accept_rate": 77,
-                "display_name": "mgibsonbr",
-                "link": "https://pt.stackoverflow.com/users/215/mgibsonbr",
-                "profile_image": "https://www.gravatar.com/avatar/414aae1257ee9e58014bd81bf438a662?s=128&d=identicon&r=PG",
-                "reputation": 66197,
-                "user_id": 215,
+                "display_name": "Stephan Carvalho",
+                "link": "https://pt.stackoverflow.com/users/128784/stephan-carvalho",
+                "profile_image": "https://lh5.googleusercontent.com/-vRmqh5ce0Fg/AAAAAAAAAAI/AAAAAAAAAAA/ABtNlbCybmxJuadb1deUGwn-ca_YB8_FKQ/mo/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 128784,
                 "user_type": "registered"
             },
-            "question_id": 1109,
-            "score": 94
+            "question_id": 337830,
+            "score": 0,
+            "tags": [
+                "c#",
+                "mysql",
+                "visual-studio-2017"
+            ],
+            "title": "Erro ao tratar exce&#231;&#245;es - &quot;Refer&#234;ncia de objeto n&#227;o definida para uma inst&#226;ncia de um objeto&quot;",
+            "view_count": 10
         },
         {
-            "answer_id": 6634,
-            "creation_date": 1392883898,
-            "is_accepted": true,
-            "last_activity_date": 1455361133,
-            "last_edit_date": 1492086805,
+            "answer_count": 0,
+            "creation_date": 1540097697,
+            "is_answered": false,
+            "last_activity_date": 1540097697,
+            "link": "https://pt.stackoverflow.com/questions/337826/erro-ao-executar-um-projeto-react-native-e-firebase",
             "owner": {
-                "accept_rate": 82,
-                "display_name": "Sergio",
-                "link": "https://pt.stackoverflow.com/users/129/sergio",
-                "profile_image": "https://i.stack.imgur.com/50fhX.jpg?s=128&g=1",
-                "reputation": 113332,
-                "user_id": 129,
-                "user_type": "moderator"
-            },
-            "question_id": 6626,
-            "score": 93
-        },
-        {
-            "answer_id": 19550,
-            "creation_date": 1402245804,
-            "is_accepted": true,
-            "last_activity_date": 1416347296,
-            "last_edit_date": 1416347296,
-            "owner": {
-                "accept_rate": 80,
-                "display_name": "utluiz",
-                "link": "https://pt.stackoverflow.com/users/227/utluiz",
-                "profile_image": "https://www.gravatar.com/avatar/72e303f801142b55122fe8d98e0e06b5?s=128&d=identicon&r=PG",
-                "reputation": 62621,
-                "user_id": 227,
-                "user_type": "moderator"
-            },
-            "question_id": 19548,
-            "score": 93
-        },
-        {
-            "answer_id": 57325,
-            "creation_date": 1428427200,
-            "is_accepted": true,
-            "last_activity_date": 1440768167,
-            "last_edit_date": 1440768167,
-            "owner": {
-                "accept_rate": 93,
-                "display_name": "Math",
-                "link": "https://pt.stackoverflow.com/users/3117/math",
-                "profile_image": "https://i.stack.imgur.com/zxdhf.png?s=128&g=1",
-                "reputation": 22664,
-                "user_id": 3117,
-                "user_type": "moderator"
-            },
-            "question_id": 57309,
-            "score": 92
-        },
-        {
-            "answer_id": 118352,
-            "creation_date": 1458073218,
-            "is_accepted": false,
-            "last_activity_date": 1458073218,
-            "owner": {
-                "display_name": "lpacheco",
-                "link": "https://pt.stackoverflow.com/users/20832/lpacheco",
-                "profile_image": "https://www.gravatar.com/avatar/bc127b45d1d3a8c729fa772b3c7c1999?s=128&d=identicon&r=PG",
-                "reputation": 1462,
-                "user_id": 20832,
+                "display_name": "J&#250;lio Adolfo Rufino",
+                "link": "https://pt.stackoverflow.com/users/70665/j%c3%balio-adolfo-rufino",
+                "profile_image": "https://graph.facebook.com/1408095365927435/picture?type=large",
+                "reputation": 14,
+                "user_id": 70665,
                 "user_type": "registered"
             },
-            "question_id": 6441,
-            "score": 92
+            "question_id": 337826,
+            "score": 0,
+            "tags": [
+                "firebase",
+                "react-native"
+            ],
+            "title": "Erro ao executar um projeto react-native e firebase",
+            "view_count": 4
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540121558,
+            "closed_reason": "unclear what you&#39;re asking",
+            "creation_date": 1540091371,
+            "is_answered": false,
+            "last_activity_date": 1540091588,
+            "last_edit_date": 1540091588,
+            "link": "https://pt.stackoverflow.com/questions/337823/fiz-um-programa-por%c3%a9m-ele-n%c3%a3o-est%c3%a1-somando",
+            "owner": {
+                "display_name": "guilherme cabrals",
+                "link": "https://pt.stackoverflow.com/users/127512/guilherme-cabrals",
+                "profile_image": "https://lh4.googleusercontent.com/-5Y1BKjpXvMI/AAAAAAAAAAI/AAAAAAAAAGg/c1KN3gKfmRU/photo.jpg?sz=128",
+                "reputation": 5,
+                "user_id": 127512,
+                "user_type": "registered"
+            },
+            "question_id": 337823,
+            "score": -1,
+            "tags": [
+                "java"
+            ],
+            "title": "Fiz um programa por&#233;m ele n&#227;o est&#225; somando",
+            "view_count": 20
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540121574,
+            "closed_reason": "off-topic",
+            "creation_date": 1540091269,
+            "is_answered": false,
+            "last_activity_date": 1540091269,
+            "link": "https://pt.stackoverflow.com/questions/337822/pdo-n%c3%a3o-insere-dados-no-banco-de-dados",
+            "owner": {
+                "display_name": "Daniel Ribeiro",
+                "link": "https://pt.stackoverflow.com/users/97448/daniel-ribeiro",
+                "profile_image": "https://graph.facebook.com/1885432305102032/picture?type=large",
+                "reputation": 3,
+                "user_id": 97448,
+                "user_type": "registered"
+            },
+            "question_id": 337822,
+            "score": 0,
+            "tags": [
+                "sql",
+                "pdo"
+            ],
+            "title": "PDO - N&#227;o insere dados no banco de dados",
+            "view_count": 11
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540121587,
+            "closed_reason": "too broad",
+            "creation_date": 1540090436,
+            "is_answered": false,
+            "last_activity_date": 1540128475,
+            "last_edit_date": 1540128475,
+            "link": "https://pt.stackoverflow.com/questions/337821/boas-pr%c3%a1ticas-na-model-do-codeigniter-3",
+            "owner": {
+                "display_name": "F&#225;bio Silva",
+                "link": "https://pt.stackoverflow.com/users/101453/f%c3%a1bio-silva",
+                "profile_image": "https://graph.facebook.com/1665040346868145/picture?type=large",
+                "reputation": 1,
+                "user_id": 101453,
+                "user_type": "registered"
+            },
+            "question_id": 337821,
+            "score": 0,
+            "tags": [
+                "codeigniter",
+                "codeigniter-3"
+            ],
+            "title": "Boas Pr&#225;ticas na Model do Codeigniter 3",
+            "view_count": 11
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540089479,
+            "is_answered": false,
+            "last_activity_date": 1540090048,
+            "last_edit_date": 1540090048,
+            "link": "https://pt.stackoverflow.com/questions/337819/carregar-dados-do-banco-em-input-ap%c3%b3s-sele%c3%a7%c3%a3o-de-id-em-dropdown",
+            "owner": {
+                "display_name": "Erick Lima Figueiredo",
+                "link": "https://pt.stackoverflow.com/users/122904/erick-lima-figueiredo",
+                "profile_image": "https://graph.facebook.com/1714920568621125/picture?type=large",
+                "reputation": 5,
+                "user_id": 122904,
+                "user_type": "registered"
+            },
+            "question_id": 337819,
+            "score": 0,
+            "tags": [
+                "php",
+                "javascript",
+                "html",
+                "mysql"
+            ],
+            "title": "Carregar dados do banco em input ap&#243;s sele&#231;&#227;o de id em dropdown",
+            "view_count": 9
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540089444,
+            "is_answered": false,
+            "last_activity_date": 1540090211,
+            "last_edit_date": 1540090211,
+            "link": "https://pt.stackoverflow.com/questions/337818/erro-no-m%c3%b3dulo-socket-em-python",
+            "owner": {
+                "display_name": "M4rBug",
+                "link": "https://pt.stackoverflow.com/users/122072/m4rbug",
+                "profile_image": "https://i.stack.imgur.com/JDjaK.jpg?s=128&g=1",
+                "reputation": 1,
+                "user_id": 122072,
+                "user_type": "registered"
+            },
+            "question_id": 337818,
+            "score": 0,
+            "tags": [
+                "python-3.x",
+                "linux",
+                "socket",
+                "mint"
+            ],
+            "title": "Erro no m&#243;dulo socket em Python",
+            "view_count": 11
+        },
+        {
+            "answer_count": 1,
+            "creation_date": 1540088516,
+            "is_answered": false,
+            "last_activity_date": 1540092210,
+            "link": "https://pt.stackoverflow.com/questions/337816/manipula%c3%a7%c3%a3o-e-grid-hbox-e-vbox-no-pyqt4",
+            "owner": {
+                "display_name": "Mi Tavares",
+                "link": "https://pt.stackoverflow.com/users/113745/mi-tavares",
+                "profile_image": "https://www.gravatar.com/avatar/45ec832e4882b0a42a5a2507b7969fd2?s=128&d=identicon&r=PG&f=1",
+                "reputation": 9,
+                "user_id": 113745,
+                "user_type": "registered"
+            },
+            "question_id": 337816,
+            "score": 0,
+            "tags": [
+                "python-2.7",
+                "pyqt-4"
+            ],
+            "title": "Manipula&#231;&#227;o e grid, hbox e vbox no pyqt4",
+            "view_count": 6
+        },
+        {
+            "answer_count": 1,
+            "creation_date": 1540087387,
+            "is_answered": false,
+            "last_activity_date": 1540098596,
+            "last_edit_date": 1540095291,
+            "link": "https://pt.stackoverflow.com/questions/337814/como-chamar-tela-de-cadastro",
+            "owner": {
+                "display_name": "Blaack Brazil",
+                "link": "https://pt.stackoverflow.com/users/128774/blaack-brazil",
+                "profile_image": "https://lh3.googleusercontent.com/-XdUIqdMkCWA/AAAAAAAAAAI/AAAAAAAAAAA/4252rscbv5M/photo.jpg?sz=128",
+                "reputation": 1,
+                "user_id": 128774,
+                "user_type": "registered"
+            },
+            "question_id": 337814,
+            "score": -1,
+            "tags": [
+                "android"
+            ],
+            "title": "Como chamar tela de cadastro",
+            "view_count": 10
+        },
+        {
+            "answer_count": 1,
+            "creation_date": 1540086347,
+            "is_answered": false,
+            "last_activity_date": 1540099204,
+            "last_edit_date": 1540087259,
+            "link": "https://pt.stackoverflow.com/questions/337813/como-converter-jsonarray-para-arraylist-no-android",
+            "owner": {
+                "accept_rate": 75,
+                "display_name": "L&#225;zaro Rodrigues",
+                "link": "https://pt.stackoverflow.com/users/72689/l%c3%a1zaro-rodrigues",
+                "profile_image": "https://graph.facebook.com/1322558417841240/picture?type=large",
+                "reputation": 20,
+                "user_id": 72689,
+                "user_type": "registered"
+            },
+            "question_id": 337813,
+            "score": 0,
+            "tags": [
+                "java",
+                "android",
+                "arraylist",
+                "retrofit",
+                "response"
+            ],
+            "title": "Como converter JsonArray para ArrayList&lt;&gt; no android",
+            "view_count": 10
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540085955,
+            "is_answered": false,
+            "last_activity_date": 1540085955,
+            "link": "https://pt.stackoverflow.com/questions/337812/arrastar-texto-do-webbrowser1-para-tmemo1",
+            "owner": {
+                "accept_rate": 31,
+                "display_name": "Rose",
+                "link": "https://pt.stackoverflow.com/users/15290/rose",
+                "profile_image": "https://i.stack.imgur.com/7WjSj.jpg?s=128&g=1",
+                "reputation": 348,
+                "user_id": 15290,
+                "user_type": "registered"
+            },
+            "question_id": 337812,
+            "score": -1,
+            "tags": [
+                "delphi"
+            ],
+            "title": "Arrastar texto do WebBrowser1 para TMemo1",
+            "view_count": 7
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540085896,
+            "is_answered": false,
+            "last_activity_date": 1540085896,
+            "link": "https://pt.stackoverflow.com/questions/337811/ajuda-retornando-erros-warning-illegal-string-offset-id",
+            "owner": {
+                "display_name": "Carlos Coelho",
+                "link": "https://pt.stackoverflow.com/users/83180/carlos-coelho",
+                "profile_image": "https://lh4.googleusercontent.com/-eIzCbIAPQB4/AAAAAAAAAAI/AAAAAAAACtU/mQIkzjFyzdA/photo.jpg?sz=128",
+                "reputation": 20,
+                "user_id": 83180,
+                "user_type": "registered"
+            },
+            "question_id": 337811,
+            "score": 0,
+            "tags": [
+                "php",
+                "mysql"
+            ],
+            "title": "Ajuda retornando erros - &gt; Warning: Illegal string offset &#39;id&#39;",
+            "view_count": 6
+        },
+        {
+            "answer_count": 1,
+            "creation_date": 1540083835,
+            "is_answered": true,
+            "last_activity_date": 1540118371,
+            "last_edit_date": 1540116438,
+            "link": "https://pt.stackoverflow.com/questions/337808/recurs%c3%a3o-no-r-erro",
+            "owner": {
+                "display_name": "Gabriel Mizuno",
+                "link": "https://pt.stackoverflow.com/users/108422/gabriel-mizuno",
+                "profile_image": "https://lh5.googleusercontent.com/-pqb2PJNxBvI/AAAAAAAAAAI/AAAAAAAAAGY/1D0_1rC-b4Q/photo.jpg?sz=128",
+                "reputation": 60,
+                "user_id": 108422,
+                "user_type": "registered"
+            },
+            "question_id": 337808,
+            "score": 1,
+            "tags": [
+                "r",
+                "rstudio"
+            ],
+            "title": "Recurs&#227;o no R erro",
+            "view_count": 15
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540082887,
+            "is_answered": false,
+            "last_activity_date": 1540082887,
+            "link": "https://pt.stackoverflow.com/questions/337807/screenupdating-x-on-error-goto-errorhandler",
+            "owner": {
+                "display_name": "Paulo Semblano",
+                "link": "https://pt.stackoverflow.com/users/93406/paulo-semblano",
+                "profile_image": "https://i.stack.imgur.com/XwDKH.jpg?s=128&g=1",
+                "reputation": 16,
+                "user_id": 93406,
+                "user_type": "registered"
+            },
+            "question_id": 337807,
+            "score": 0,
+            "tags": [
+                "excel",
+                "vba"
+            ],
+            "title": "ScreenUpdating x On Error GoTo ErrorHandler",
+            "view_count": 3
+        },
+        {
+            "answer_count": 1,
+            "creation_date": 1540081344,
+            "is_answered": false,
+            "last_activity_date": 1540084458,
+            "link": "https://pt.stackoverflow.com/questions/337806/como-redirecionar-o-usu%c3%a1rio-para-uma-p%c3%a1gina-especifica-ap%c3%b3s-o-login",
+            "owner": {
+                "display_name": "Rodrigo Santos",
+                "link": "https://pt.stackoverflow.com/users/126991/rodrigo-santos",
+                "profile_image": "https://graph.facebook.com/10216654704421418/picture?type=large",
+                "reputation": 1,
+                "user_id": 126991,
+                "user_type": "registered"
+            },
+            "question_id": 337806,
+            "score": 0,
+            "tags": [
+                "c#",
+                "asp.net-mvc",
+                "login",
+                "autentica&#231;&#227;o",
+                "forms-authentication"
+            ],
+            "title": "Como redirecionar o usu&#225;rio para uma p&#225;gina especifica ap&#243;s o login",
+            "view_count": 16
+        },
+        {
+            "answer_count": 0,
+            "creation_date": 1540081252,
+            "is_answered": false,
+            "last_activity_date": 1540081252,
+            "link": "https://pt.stackoverflow.com/questions/337805/utilizar-comandos-adb-em-app-para-android",
+            "owner": {
+                "display_name": "Kayque Damasceno",
+                "link": "https://pt.stackoverflow.com/users/14752/kayque-damasceno",
+                "profile_image": "https://www.gravatar.com/avatar/cc32a6ce0e52af3a2491f863565ffe92?s=128&d=identicon&r=PG&f=1",
+                "reputation": 6,
+                "user_id": 14752,
+                "user_type": "registered"
+            },
+            "question_id": 337805,
+            "score": 0,
+            "tags": [
+                "android"
+            ],
+            "title": "Utilizar comandos adb em App para android",
+            "view_count": 3
+        },
+        {
+            "answer_count": 2,
+            "creation_date": 1540078949,
+            "is_answered": true,
+            "last_activity_date": 1540080310,
+            "link": "https://pt.stackoverflow.com/questions/337799/como-exibir-os-atributos-de-uma-exception-em-python",
+            "owner": {
+                "display_name": "Gabriel",
+                "link": "https://pt.stackoverflow.com/users/128767/gabriel",
+                "profile_image": "https://www.gravatar.com/avatar/dfbcd2a98ed15301a46985e5ae616e2f?s=128&d=identicon&r=PG",
+                "reputation": 11,
+                "user_id": 128767,
+                "user_type": "unregistered"
+            },
+            "question_id": 337799,
+            "score": 2,
+            "tags": [
+                "python",
+                "exce&#231;&#227;o"
+            ],
+            "title": "Como exibir os atributos de uma Exception em Python?",
+            "view_count": 13
+        },
+        {
+            "accepted_answer_id": 337801,
+            "answer_count": 1,
+            "creation_date": 1540077892,
+            "is_answered": true,
+            "last_activity_date": 1540080378,
+            "link": "https://pt.stackoverflow.com/questions/337797/retorno-busca-hql-java",
+            "owner": {
+                "accept_rate": 57,
+                "display_name": "Eduardo Balestrin",
+                "link": "https://pt.stackoverflow.com/users/33844/eduardo-balestrin",
+                "profile_image": "https://graph.facebook.com/883121971783431/picture?type=large",
+                "reputation": 159,
+                "user_id": 33844,
+                "user_type": "registered"
+            },
+            "question_id": 337797,
+            "score": 0,
+            "tags": [
+                "java",
+                "hql"
+            ],
+            "title": "Retorno busca HQL JAVA",
+            "view_count": 16
         }
     ],
     "quota_max": 300,
-    "quota_remaining": 261
+    "quota_remaining": 253
 }
