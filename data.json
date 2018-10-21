@@ -3,9 +3,56 @@
     "items": [
         {
             "answer_count": 0,
+            "creation_date": 1540141745,
+            "is_answered": false,
+            "last_activity_date": 1540141745,
+            "link": "https://pt.stackoverflow.com/questions/337869/conectar-colunas-de-diferentes-tabelas",
+            "owner": {
+                "display_name": "Bruno Bacelar",
+                "link": "https://pt.stackoverflow.com/users/115002/bruno-bacelar",
+                "profile_image": "https://graph.facebook.com/1667076109994890/picture?type=large",
+                "reputation": 28,
+                "user_id": 115002,
+                "user_type": "registered"
+            },
+            "question_id": 337869,
+            "score": 0,
+            "tags": [
+                "sql-server"
+            ],
+            "title": "Conectar colunas de diferentes tabelas",
+            "view_count": 4
+        },
+        {
+            "answer_count": 0,
+            "closed_date": 1540141132,
+            "closed_reason": "off-topic",
+            "creation_date": 1540140921,
+            "is_answered": false,
+            "last_activity_date": 1540140921,
+            "link": "https://pt.stackoverflow.com/questions/337867/criar-um-c%c3%b3digo-de-criptografia-e-descriptografia",
+            "owner": {
+                "display_name": "Guilherme",
+                "link": "https://pt.stackoverflow.com/users/128808/guilherme",
+                "profile_image": "https://www.gravatar.com/avatar/f5e0f6f63216537ca9c0fa1b0631e261?s=128&d=identicon&r=PG",
+                "reputation": 1,
+                "user_id": 128808,
+                "user_type": "unregistered"
+            },
+            "question_id": 337867,
+            "score": -1,
+            "tags": [
+                "c#",
+                "criptografia"
+            ],
+            "title": "Criar um c&#243;digo de criptografia e descriptografia",
+            "view_count": 6
+        },
+        {
+            "answer_count": 1,
             "creation_date": 1540140384,
             "is_answered": false,
-            "last_activity_date": 1540140384,
+            "last_activity_date": 1540141499,
             "link": "https://pt.stackoverflow.com/questions/337866/como-converter-opera%c3%a7%c3%b5es-aritm%c3%a9ticas-utilizando-diretamente-bin%c3%a1rio-em-c",
             "owner": {
                 "display_name": "Fabio Fontes",
@@ -23,7 +70,7 @@
                 "n&#250;meros-bin&#225;rios"
             ],
             "title": "Como converter opera&#231;&#245;es aritm&#233;ticas utilizando diretamente bin&#225;rio em C",
-            "view_count": 3
+            "view_count": 8
         },
         {
             "answer_count": 0,
@@ -49,7 +96,7 @@
                 "vari&#225;veis"
             ],
             "title": "Qual a real necessidade de criar uma vari&#225;vel com nomes variaveis em php?",
-            "view_count": 5
+            "view_count": 6
         },
         {
             "answer_count": 0,
@@ -68,12 +115,12 @@
                 "user_type": "unregistered"
             },
             "question_id": 337863,
-            "score": -1,
+            "score": -2,
             "tags": [
                 "java"
             ],
             "title": "Como fazer isso em Java?",
-            "view_count": 9
+            "view_count": 11
         },
         {
             "answer_count": 0,
@@ -224,7 +271,7 @@
                 "html"
             ],
             "title": "Como Continuar envio de formul&#225;rio ap&#243;s &quot;e.preventDefault();&quot;",
-            "view_count": 12
+            "view_count": 13
         },
         {
             "answer_count": 0,
@@ -366,7 +413,7 @@
                 "delphi"
             ],
             "title": "Erro comparando strings em Delphi",
-            "view_count": 6
+            "view_count": 7
         },
         {
             "answer_count": 0,
@@ -417,29 +464,6 @@
         },
         {
             "answer_count": 0,
-            "creation_date": 1540124721,
-            "is_answered": false,
-            "last_activity_date": 1540124721,
-            "link": "https://pt.stackoverflow.com/questions/337843/como-ponho-uma-coluna-em-agrega%c3%a7%c3%a3o-ou-numa-fun%c3%a7%c3%a3o-de-grupo",
-            "owner": {
-                "display_name": "Bruno Bacelar",
-                "link": "https://pt.stackoverflow.com/users/115002/bruno-bacelar",
-                "profile_image": "https://graph.facebook.com/1667076109994890/picture?type=large",
-                "reputation": 28,
-                "user_id": 115002,
-                "user_type": "registered"
-            },
-            "question_id": 337843,
-            "score": 0,
-            "tags": [
-                "sql-server",
-                "query"
-            ],
-            "title": "Como ponho uma coluna em agrega&#231;&#227;o ou numa fun&#231;&#227;o de grupo?",
-            "view_count": 8
-        },
-        {
-            "answer_count": 0,
             "creation_date": 1540123218,
             "is_answered": false,
             "last_activity_date": 1540123218,
@@ -449,7 +473,7 @@
                 "display_name": "Cyberlacs",
                 "link": "https://pt.stackoverflow.com/users/38555/cyberlacs",
                 "profile_image": "https://www.gravatar.com/avatar/5c933a91a4a446b456f14fc2fbfd24eb?s=128&d=identicon&r=PG",
-                "reputation": 519,
+                "reputation": 521,
                 "user_id": 38555,
                 "user_type": "registered"
             },
@@ -460,7 +484,7 @@
                 "paypal"
             ],
             "title": "PayPal n&#227;o retorna valores StringQuery TX no modo Sandbox",
-            "view_count": 7
+            "view_count": 8
         },
         {
             "answer_count": 0,
@@ -664,7 +688,7 @@
                 "mint"
             ],
             "title": "Erro no m&#243;dulo socket em Python",
-            "view_count": 11
+            "view_count": 12
         },
         {
             "accepted_answer_id": 337824,
@@ -712,36 +736,8 @@
             ],
             "title": "Melhor pr&#225;tica para chamar uma nova tela",
             "view_count": 11
-        },
-        {
-            "answer_count": 1,
-            "creation_date": 1540086347,
-            "is_answered": false,
-            "last_activity_date": 1540099204,
-            "last_edit_date": 1540087259,
-            "link": "https://pt.stackoverflow.com/questions/337813/como-converter-jsonarray-para-arraylist-no-android",
-            "owner": {
-                "accept_rate": 75,
-                "display_name": "L&#225;zaro Rodrigues",
-                "link": "https://pt.stackoverflow.com/users/72689/l%c3%a1zaro-rodrigues",
-                "profile_image": "https://graph.facebook.com/1322558417841240/picture?type=large",
-                "reputation": 20,
-                "user_id": 72689,
-                "user_type": "registered"
-            },
-            "question_id": 337813,
-            "score": 0,
-            "tags": [
-                "java",
-                "android",
-                "arraylist",
-                "retrofit",
-                "response"
-            ],
-            "title": "Como converter JsonArray para ArrayList&lt;&gt; no android",
-            "view_count": 10
         }
     ],
     "quota_max": 300,
-    "quota_remaining": 252
+    "quota_remaining": 251
 }

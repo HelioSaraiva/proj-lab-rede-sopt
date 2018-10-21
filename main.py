@@ -6,9 +6,12 @@ def formatjson(data):
     return json.dumps(data, sort_keys=True, indent=4)
 
 def savejsonfile(data):
-    with open('data.json', 'w') as outfile:
-        json.dump(data, outfile, indent=4, sort_keys=True)
-    print('Salvo em arquivo JSON.')
+    try:
+        with open('data.json', 'w') as outfile:
+            json.dump(data, outfile, indent=4, sort_keys=True)
+            return True
+    except (OSError, IOError) as e:
+        return False
 
 def getquestions():
     # Endpoint: /2.2/questions?fromdate=1514764800&order=desc&sort=creation&site=pt.stackoverflow
@@ -25,7 +28,8 @@ def getquestions():
 def main():    
     questions = getquestions()
     if questions:
-        savejsonfile(questions)
+        if savejsonfile(questions):
+            print('Arquivo JSON salvo.')
 
 if __name__ == '__main__':
     main()
