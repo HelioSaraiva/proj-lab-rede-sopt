@@ -10,6 +10,6 @@ Buscar dados estatiscos referente aos seguintes itens:
 - Indice de aprovacao;
 - Quantiodade de resposta por liguagem;
 - Contagem de View;
-- Comparar linguagens mais utilizadas(TOP 5) por região(EUA X BRASIL). 
+- Comparar linguagens mais utilizadas(TOP 5) por região(EUA X BRASIL);
 
 
